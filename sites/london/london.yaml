@@ -6,7 +6,7 @@ metadata:
   namespace: default
 spec:
   interval: 1m
-  url: https://github.com/saqebakhter/ecs-infra-example.git
+  url: https://github.com/vladracs/ecs-infra-example.git
   ref:
     branch: main
 ---
@@ -17,7 +17,7 @@ metadata:
   namespace: default
 spec:
   interval: 1m
-  url: https://github.com/saqebakhter/ecs-apps-example.git
+  url: https://github.com/vladracs/ecs-apps-example.git
   ref:
     branch: main
 ---
