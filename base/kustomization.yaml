@@ -5,4 +5,5 @@ resources:
   - cadvisor.yaml
   - esx-ntp-config.yaml
   - ww-gitops-dashboard.yaml
+  - metrics-in-a-box
 
