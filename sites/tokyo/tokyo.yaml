@@ -52,7 +52,7 @@ spec:
     - patch: |
         - op: replace
           path: /spec/className
-          value: best-effort-xsmall
+          value: best-effort-small
       target:
         kind: VirtualMachine
         name: linux-vm
